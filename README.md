@@ -2,7 +2,7 @@
 - 👀 I’m 
 - 🌱 I’m currently learning HTML,CSS and Javascript.
 - 💞️ I’m looking to collaborate on web applications and websites.
-- 📫 TO contact me, you can e-mail harunatanimu17@gmail.com
+- 📫 To contact me, you can e-mail harunatanimu17@gmail.com
 
 <!---
 Tanimhrn/Tanimhrn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
