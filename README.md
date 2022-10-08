@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tanimu Haruna
-- 👀 I’m 
+- 👀 I’m a Software Engineer
 - 🌱 I’m currently learning HTML,CSS and Javascript.
 - 💞️ I’m looking to collaborate on web applications and websites.
 - 📫 To contact me, you can e-mail harunatanimu17@gmail.com
