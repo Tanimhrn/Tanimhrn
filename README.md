@@ -1,4 +1,4 @@
-# Hi there, I'm [Tanim] 👋
+# Hi there, I'm Tanim 👋
 
 Welcome to my GitHub profile! I'm a budding Software Engineer passionate about learning and contributing to exciting projects.
 
