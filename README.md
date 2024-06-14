@@ -1,11 +1,11 @@
 # Hi there, I'm [Tanim] 👋
 
-Welcome to my GitHub profile! I'm a budding [Software Engineer] passionate about learning and contributing to exciting projects.
+Welcome to my GitHub profile! I'm a budding Software Engineer passionate about learning and contributing to exciting projects.
 
 ## 🌟 About Me
 
-- 🌱 I’m currently learning [Responsive web design and Javascript]
-- 👯 I’m looking to collaborate on [open-source projects on frontend web development]
+- 🌱 I’m currently learning Responsive web design and Javascript
+- 👯 I’m looking to collaborate on open-source projects on frontend web development
 - 📫 How to reach me: [harunatanimu17@gmail.com]
 
 ## 🛠️ Technologies & Tools
