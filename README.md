@@ -28,5 +28,7 @@ Welcome to my GitHub profile! I'm a budding Software Engineer passionate about l
 
 ## Contact Me
 
-[![LinkedIn](https://img.icons8.com/ios/100/000000/linkedin.png)](https://www.linkedin.com/in/tanimu-haruna-427b35233)
-[![Email](https://img.icons8.com/ios/100/000000/gmail.png)](mailto:harunatanimu17@gmail.com)
+## Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanimu-haruna-427b35233)
+[![Email](https://img.shields.io/badge/Email-%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:harunatanimu17@gmail.com)
