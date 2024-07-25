@@ -22,13 +22,7 @@ Welcome to my GitHub profile! I'm a budding Software Engineer passionate about l
 [A user-friendly food delivery application designed to simplify the process of ordering food online. The app features a clean interface for browsing menus, placing orders, and tracking delivery status in real-time. Built using modern web technologies, this project aims to provide a seamless experience for both users and restaurant partners.
 ]
 
-## 🤝 Connect with Me
-
-## Contact Me
-
-## Contact Me
-
-## Contact Me
+## 🤝 Connect Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanimu-haruna-427b35233)
 [![Email](https://img.shields.io/badge/Email-%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:harunatanimu17@gmail.com)
