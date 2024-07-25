@@ -10,12 +10,11 @@ Welcome to my GitHub profile! I'm a budding Software Engineer passionate about l
 
 ## 🛠️ Technologies & Tools
 
-![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+![HTML](https://img.icons8.com/color/48/000000/html-5.png) [HTML](https://www.w3.org/html/)
+![CSS](https://img.icons8.com/color/48/000000/css3.png) [CSS](https://www.w3.org/Style/CSS/)
+![Figma](https://img.icons8.com/color/48/000000/figma.png) [Figma](https://www.figma.com/)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png) [GitHub](https://github.com/)
 
 ## 📂 Projects
 
