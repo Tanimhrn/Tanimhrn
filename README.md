@@ -18,9 +18,6 @@ Welcome to my GitHub profile! I'm a budding Software Engineer passionate about l
 
 ## 📂 Projects
 
-### [Food Delivery App](https://github.com/Tanimhrn/food-delivery-app)
-[A user-friendly food delivery application designed to simplify the process of ordering food online. The app features a clean interface for browsing menus, placing orders, and tracking delivery status in real-time. Built using modern web technologies, this project aims to provide a seamless experience for both users and restaurant partners.
-]
 
 ## 🤝 Connect With Me
 
