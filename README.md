@@ -1,25 +1,56 @@
-# Hi there, I'm Tanim 👋
+# 👋 Hi, I'm Haruna Tanimu
 
-Welcome to my GitHub profile! I'm a budding Software Engineer passionate about learning and contributing to exciting projects.
+🎯 **Frontend Developer | Passionate about Clean, Responsive Web Design**  
+📍 Nigeria | 📧 harunatanimu17@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/tanimu-haruna-427b35233) | 🧑‍💻 GitHub: [@Tanimhrn](https://github.com/Tanimhrn)
 
-## 🌟 About Me
+---
 
-- 🌱 I’m currently learning Responsive web design and Javascript
-- 👯 I’m looking to collaborate on open-source projects on frontend web development
-- 📫 How to reach me: [harunatanimu17@gmail.com]
+## 🧑‍💻 About Me
 
-## 🛠️ Technologies & Tools
+I'm a self-taught **Frontend Developer** focused on building user-friendly and responsive websites. My journey began with HTML and CSS, and I'm actively deepening my skills in **JavaScript** while bringing real-world projects to life.
 
-![HTML](https://img.icons8.com/color/48/000000/html-5.png) [HTML](https://www.w3.org/html/)
-![CSS](https://img.icons8.com/color/48/000000/css3.png) [CSS](https://www.w3.org/Style/CSS/)
-![Figma](https://img.icons8.com/color/48/000000/figma.png) [Figma](https://www.figma.com/)
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png) [GitHub](https://github.com/)
+I care deeply about **clean code**, **good design**, and **creating seamless user experiences**. I'm currently working on building a strong portfolio that demonstrates my skills and growth.
 
-## 📂 Projects
+---
 
+## 🛠 Tech Stack
 
-## 🤝 Connect With Me
+- **Languages:** HTML5, CSS3, JavaScript (ES6+)
+- **Tools & Frameworks:** Git, GitHub, VS Code, Figma
+- **Specialties:** Responsive design, semantic HTML, modern CSS, accessibility
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanimu-haruna-427b35233)
-[![Email](https://img.shields.io/badge/Email-%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:harunatanimu17@gmail.com)
+---
+
+## 📌 Projects
+
+> *(Here are some of my recent frontend projects — more coming soon!)*
+
+- **📄 [QR Code Component](https://github.com/Tanimhrn/QR-Code-Component)**  
+  A solution to the QR code component challenge on Frontend Mentor, focusing on layout and styling.
+
+- **📰 [Blog Preview Card](https://github.com/Tanimhrn/blog-preview-card)**  
+  A responsive blog preview card component built with HTML and CSS.
+
+- **🔗 [Social Links Profile](https://github.com/Tanimhrn/social-links-profile)**  
+  A simple social links profile page showcasing various social media links.
+
+---
+
+## 📈 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanimhrn&show_icons=true&theme=radical" alt="Haruna's GitHub Stats" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm actively seeking **frontend developer roles**, **internships**, or **collaborative projects** where I can contribute and grow.
+
+📬 **Email**: harunatanimu17@gmail.com  
+🔗 **LinkedIn**: [linkedin.com/in/tanimu-haruna-427b35233](https://www.linkedin.com/in/tanimu-haruna-427b35233)
+
+---
+
+_“I build with purpose, learn by doing, and code to create meaningful digital experiences.”_
