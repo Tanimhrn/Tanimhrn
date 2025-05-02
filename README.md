@@ -42,6 +42,12 @@ I care deeply about **clean code**, **good design**, and **creating seamless use
   <img src="https://github-readme-stats.vercel.app/api?username=Tanimhrn&show_icons=true&theme=radical" alt="Haruna's GitHub Stats" />
 </p>
 
+## 🔥 GitHub Contribution Streak
+
+<p>
+  <img src="https://streak-stats.demolab.com/?user=Tanimhrn&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
 ---
 
 ## 🤝 Let's Connect
@@ -53,4 +59,8 @@ I'm actively seeking **frontend developer roles**, **internships**, or **collabo
 
 ---
 
-_“I build with purpose, learn by doing, and code to create meaningful digital experiences.”_
+## 💬 Daily Motivation
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Daily Quote" />
+</p>
