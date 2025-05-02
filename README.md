@@ -1,66 +1,50 @@
-# 👋 Hi, I'm Haruna Tanimu
+# Hi, I'm Haruna Tanimu 👋
 
-🎯 **Frontend Developer | Passionate about Clean, Responsive Web Design**  
-📍 Nigeria | 📧 harunatanimu17@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/tanimu-haruna-427b35233) | 🧑‍💻 GitHub: [@Tanimhrn](https://github.com/Tanimhrn)
-
----
-
-## 🧑‍💻 About Me
-
-I'm a self-taught **Frontend Developer** focused on building user-friendly and responsive websites. My journey began with HTML and CSS, and I'm actively deepening my skills in **JavaScript** while bringing real-world projects to life.
-
-I care deeply about **clean code**, **good design**, and **creating seamless user experiences**. I'm currently working on building a strong portfolio that demonstrates my skills and growth.
+I'm a **Frontend Engineer** focused on building visually polished, responsive, and accessible user interfaces. I specialize in crafting intuitive web experiences with a strong emphasis on performance, maintainability, and clean design systems.
 
 ---
 
-## 🛠 Tech Stack
+## 💼 What I Do
 
-- **Languages:** HTML5, CSS3, JavaScript (ES6+)
-- **Tools & Frameworks:** Git, GitHub, VS Code, Figma
-- **Specialties:** Responsive design, semantic HTML, modern CSS, accessibility
-
----
-
-## 📌 Projects
-
-> *(Here are some of my recent frontend projects — more coming soon!)*
-
-- **📄 [QR Code Component](https://github.com/Tanimhrn/QR-Code-Component)**  
-  A solution to the QR code component challenge on Frontend Mentor, focusing on layout and styling.
-
-- **📰 [Blog Preview Card](https://github.com/Tanimhrn/blog-preview-card)**  
-  A responsive blog preview card component built with HTML and CSS.
-
-- **🔗 [Social Links Profile](https://github.com/Tanimhrn/social-links-profile)**  
-  A simple social links profile page showcasing various social media links.
+- Build scalable and responsive interfaces using modern frontend architecture  
+- Write clean, modular, and reusable UI components  
+- Translate design systems and wireframes into production-ready web pages  
+- Continuously improve UX, accessibility, and performance across devices  
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 Tech Stack
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanimhrn&show_icons=true&theme=radical" alt="Haruna's GitHub Stats" />
-</p>
-
-## 🔥 GitHub Contribution Streak
-
-<p>
-  <img src="https://streak-stats.demolab.com/?user=Tanimhrn&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-</p>
+- **Core Skills:** Semantic HTML, Modern CSS (Flexbox, Grid, Custom Properties), JavaScript (ES6+)  
+- **Workflow Tools:** Git & GitHub, VS Code, Figma  
+- **Focus Areas:** Component-based design, responsive layouts, performance optimization  
+- **Currently Exploring:** DOM APIs, state management patterns, UI animations
 
 ---
 
-## 🤝 Let's Connect
+## 📌 Featured Projects
 
-I'm actively seeking **frontend developer roles**, **internships**, or **collaborative projects** where I can contribute and grow.
+> Real-world interfaces crafted with care and precision:
 
-📬 **Email**: harunatanimu17@gmail.com  
-🔗 **LinkedIn**: [linkedin.com/in/tanimu-haruna-427b35233](https://www.linkedin.com/in/tanimu-haruna-427b35233)
+- 🔗 **[Social Links Profile](https://github.com/Tanimhrn/social-links-profile)**  
+  A mobile-first link hub page with clean layout and modern responsiveness.
+
+- 📰 **[Blog Preview Card](https://github.com/Tanimhrn/blog-preview-card)**  
+  A minimal, responsive article card styled with modular CSS and semantic HTML.
+
+- 📄 **[QR Code Component](https://github.com/Tanimhrn/QR-Code-Component)**  
+  A fully responsive card layout optimized for simplicity and clarity.
 
 ---
 
-## 💬 Daily Motivation
+## 🤝 Let’s Connect
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Daily Quote" />
-</p>
+Whether you're building a product, looking for collaborators, or hiring — I'm always open to opportunities that push boundaries and create real impact.
+
+- **Email:** tanimuhrna@gmail.com  
+- **LinkedIn:** [linkedin.com/in/tanimu-haruna-427b35233](https://linkedin.com/in/tanimu-haruna-427b35233)  
+- **GitHub:** [@Tanimhrn](https://github.com/Tanimhrn)
+
+---
+
+Thanks for visiting. Let’s build something great together.
